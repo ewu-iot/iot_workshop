@@ -1,9 +1,4 @@
-# IoT workshop for Sustainable Development @EWU
-IoT for sustainable development
-
-
-# Arduino and NodeMCU/ESP8266 Setup Guide for IoT workshop
-
+# IoT workshop for Sustainable Development @East West University, Bangladesh
 This repository provides step-by-step guides for setting up the Arduino IDE, installing Java JDK, configuring the Arduino IDE for NodeMCU/ESP8266, and running a Blink program on NodeMCU. Follow the instructions and refer to the video tutorials provided for a complete setup.
 
 ## Table of Contents
@@ -17,14 +12,14 @@ This repository provides step-by-step guides for setting up the Arduino IDE, ins
 
 ### Installing Arduino IDE
 
-The Arduino IDE is the primary software required to program Arduino boards and compatible microcontrollers like NodeMCU.
+The Arduino IDE is the primary software required to program Arduino boards and compatible microcontrollers like NodeMCU or ESP8266.
 
 #### Steps:
 1. Download the Arduino IDE from the official [Arduino website](https://www.arduino.cc/en/software).
 2. Install the IDE following the on-screen instructions.
 
 #### Video Tutorial:
-[![Installing Arduino IDE](https://img.youtube.com/vi/sample_video_id1/0.jpg)](https://www.youtube.com/watch?v=sample_video_id1)
+[![Installing Arduino IDE](https://img.youtube.com/vi/sample_video_id1/0.jpg)](https://youtu.be/BpjWgBRpcS0?si=nUAHIYkwmr7KqXfm)
 
 ---
 
@@ -33,7 +28,7 @@ The Arduino IDE is the primary software required to program Arduino boards and c
 Java Development Kit (JDK) 23 is required for compiling certain tools and libraries used with the Arduino IDE.
 
 #### Steps:
-1. Download the JDK 23 installer from the official [Oracle JDK website](https://www.oracle.com/java/technologies/javase-downloads.html).
+1. Download the JDK 23 installer from the official [Oracle JDK website](https://www.oracle.com/java/technologies/downloads)
 2. Install the JDK and configure the system's environment variables (JAVA_HOME).
 
 #### Video Tutorial:
