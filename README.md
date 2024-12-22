@@ -23,6 +23,8 @@ The Arduino IDE is the primary software required to program Arduino boards and c
     <img src="https://img.youtube.com/vi/BpjWgBRpcS0/hqdefault.jpg" alt="Video 1 Preview" />
 </a>
 
+---
+
 ### Installing Java JDK 23
 
 Java Development Kit (JDK) 23 is required for compiling certain tools and libraries used with the Arduino IDE. Java is an essential component in the development of HTTP servers for data visualization applications.
@@ -35,6 +37,8 @@ Java Development Kit (JDK) 23 is required for compiling certain tools and librar
 <a href="https://www.youtube.com/watch?v=7CGLfDCYoR4" target="_blank">
     <img src="https://img.youtube.com/vi/7CGLfDCYoR4/hqdefault.jpg" alt="Video 2 Preview" />
 </a>
+
+---
 
 ### Setting Up Arduino IDE for NodeMCU/ESP8266
 
@@ -51,6 +55,8 @@ The Arduino IDE requires additional configuration to support NodeMCU or ESP8266 
     <img src="https://img.youtube.com/vi/psaGkSOoJpY/hqdefault.jpg" alt="Video 3 Preview" />
 </a>
 
+---
+
 ### Running the Blink Program on NodeMCU
 
 The Blink program is a simple test to ensure your NodeMCU is correctly set up and functioning.
@@ -65,6 +71,8 @@ The Blink program is a simple test to ensure your NodeMCU is correctly set up an
 <a href="https://youtu.be/fALpHXah9-k?si=sAg0InqzU4kIbPnJ" target="_blank">
     <img src="https://img.youtube.com/vi/fALpHXah9-k/hqdefault.jpg" alt="Video 4 Preview" />
 </a>
+
+---
 
 ## Contribution
 
