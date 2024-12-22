@@ -25,7 +25,7 @@ The Arduino IDE is the primary software required to program Arduino boards and c
 
 ### Installing Java JDK 23
 
-Java Development Kit (JDK) 23 is required for compiling certain tools and libraries used with the Arduino IDE.
+Java Development Kit (JDK) 23 is required for compiling certain tools and libraries used with the Arduino IDE. Java is an essential component in the development of HTTP servers for data visualization applications.
 
 #### Steps:
 1. Download the JDK 23 installer from the official [Oracle JDK website](https://www.oracle.com/java/technologies/downloads)
