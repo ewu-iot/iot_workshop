@@ -1,0 +1,1 @@
+Arduino source for ESP8266 board. During flashing use NodeMCU 1.0 from board manager during uploading to board (tasted with lolion board).
