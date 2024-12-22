@@ -48,6 +48,9 @@ The Arduino IDE requires additional configuration to support NodeMCU or ESP8266 
 
 #### Video Tutorial:
 [![Setting Up Arduino IDE for NodeMCU](https://img.youtube.com/vi/sample_video_id3/0.jpg)](https://www.youtube.com/watch?v=sample_video_id3)
+<a href="https://www.youtube.com/watch?v=psaGkSOoJpY&t=35s" target="_blank">
+    <img src="https://img.youtube.com/vi/psaGkSOoJpY/hqdefault.jpg" alt="Video 3 Preview" />
+</a>
 
 ---
 
