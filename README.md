@@ -19,7 +19,7 @@ The Arduino IDE is the primary software required to program Arduino boards and c
 2. Install the IDE following the on-screen instructions.
 
 #### Video Tutorial:
-[![Installing Arduino IDE](https://img.youtube.com/vi/sample_video_id1/0.jpg)](https://youtu.be/BpjWgBRpcS0?si=nUAHIYkwmr7KqXfm)
+[![Installing Arduino IDE][(https://img.youtube.com/vi/BpjWgBRpcS0/0.jpg)](https://youtu.be/BpjWgBRpcS0?si=nUAHIYkwmr7KqXfm)
 
 ---
 
