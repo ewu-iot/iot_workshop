@@ -19,8 +19,9 @@ The Arduino IDE is the primary software required to program Arduino boards and c
 2. Install the IDE following the on-screen instructions.
 
 #### Video Tutorial:
-[![Installing Arduino ID](https://img.youtube.com/vi/BpjWgBRpcS0/hqdefault.jpg)](https://www.youtube.com/watch?v=BpjWgBRpcS0)
-
+<a href="https://www.youtube.com/watch?v=BpjWgBRpcS0" target="_blank">
+    <img src="https://img.youtube.com/vi/BpjWgBRpcS0/hqdefault.jpg" alt="Video 1 Preview" />
+</a>
 ---
 
 ### Installing Java JDK 23
@@ -32,8 +33,9 @@ Java Development Kit (JDK) 23 is required for compiling certain tools and librar
 2. Install the JDK and configure the system's environment variables (JAVA_HOME).
 
 #### Video Tutorial:
-[![Installing Java JDK 23](https://img.youtube.com/vi/7CGLfDCYoR4/hqdefault.jpg)](https://www.youtube.com/watch?v=7CGLfDCYoR4)
-
+<a href="https://www.youtube.com/watch?v=7CGLfDCYoR4" target="_blank">
+    <img src="https://img.youtube.com/vi/7CGLfDCYoR4/hqdefault.jpg" alt="Video 2 Preview" />
+</a>
 ---
 
 ### Setting Up Arduino IDE for NodeMCU/ESP8266
@@ -47,7 +49,6 @@ The Arduino IDE requires additional configuration to support NodeMCU or ESP8266 
 4. Install the ESP8266 board package.
 
 #### Video Tutorial:
-[![Setting Up Arduino IDE for NodeMCU](https://img.youtube.com/vi/sample_video_id3/0.jpg)](https://www.youtube.com/watch?v=sample_video_id3)
 <a href="https://www.youtube.com/watch?v=psaGkSOoJpY&t=35s" target="_blank">
     <img src="https://img.youtube.com/vi/psaGkSOoJpY/hqdefault.jpg" alt="Video 3 Preview" />
 </a>
@@ -65,7 +66,9 @@ The Blink program is a simple test to ensure your NodeMCU is correctly set up an
 4. Upload the program to the NodeMCU.
 
 #### Video Tutorial:
-[![Running Blink Program on NodeMCU](https://img.youtube.com/vi/sample_video_id4/0.jpg)](https://www.youtube.com/watch?v=sample_video_id4)
+<a href="https://youtu.be/fALpHXah9-k?si=sAg0InqzU4kIbPnJ" target="_blank">
+    <img src="https://img.youtube.com/vi/fALpHXah9-k/hqdefault.jpg" alt="Video 4 Preview" />
+</a>
 
 ---
 
