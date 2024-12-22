@@ -19,8 +19,7 @@ The Arduino IDE is the primary software required to program Arduino boards and c
 2. Install the IDE following the on-screen instructions.
 
 #### Video Tutorial:
-[![Installing Arduino IDE][(https://img.youtube.com/vi/BpjWgBRpcS0/0.jpg)](https://youtu.be/BpjWgBRpcS0?si=nUAHIYkwmr7KqXfm)
-[![Video 1 Preview](https://img.youtube.com/vi/BpjWgBRpcS0/hqdefault.jpg)](https://www.youtube.com/watch?v=BpjWgBRpcS0)
+[![Installing Arduino ID](https://img.youtube.com/vi/BpjWgBRpcS0/hqdefault.jpg)](https://www.youtube.com/watch?v=BpjWgBRpcS0)
 
 ---
 
@@ -33,7 +32,7 @@ Java Development Kit (JDK) 23 is required for compiling certain tools and librar
 2. Install the JDK and configure the system's environment variables (JAVA_HOME).
 
 #### Video Tutorial:
-[![Installing Java JDK 23](https://img.youtube.com/vi/sample_video_id2/0.jpg)](https://www.youtube.com/watch?v=sample_video_id2)
+[![Installing Java JDK 23](https://img.youtube.com/vi/7CGLfDCYoR4/hqdefault.jpg)](https://www.youtube.com/watch?v=7CGLfDCYoR4)
 
 ---
 
