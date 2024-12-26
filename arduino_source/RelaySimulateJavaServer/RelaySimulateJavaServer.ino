@@ -10,7 +10,7 @@ const int serverPort = 8080; // Java server port --- change needed
 ESP8266WebServer server(80);
 
 // Relay pins
-#define RELAY1 05
+#define RELAY1 LED_BUILTIN
 #define RELAY2 04
 #define RELAY3 16
 
